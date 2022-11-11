@@ -53,7 +53,7 @@ global.botname = 'RED╺ DRAGONᵇᵒᵗ🅷︎🅳︎' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "RED-DRAGON" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-HD ]' //
+global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //
 
 //database
 global.premium = ['+94788588321'] //ur premium numbers
